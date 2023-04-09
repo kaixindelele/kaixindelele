@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there is kaixindelele 👋
+
+![kaixindelele github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=kaixindelele)
 
 <!--
 **kaixindelele/kaixindelele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
