@@ -17,6 +17,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![kaixindelele github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=kaixindelele)
-
-![kaixindelele github-trophies](https://stats.hyochan.dev/api/github-trophies?login=kaixindelele)
