@@ -1,5 +1,7 @@
 ### Hi there is kaixindelele 👋
 
+![kaixindelele github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=kaixindelele)
+
 ![kaixindelele github-trophies](https://stats.hyochan.dev/api/github-trophies?login=kaixindelele)
 
 <!--
