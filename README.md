@@ -1,8 +1,6 @@
 ### Hi there is kaixindelele 👋
 
-![kaixindelele github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=kaixindelele)
 
-![kaixindelele github-trophies](https://stats.hyochan.dev/api/github-trophies?login=kaixindelele)
 
 <!--
 **kaixindelele/kaixindelele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![kaixindelele github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=kaixindelele)
+
+![kaixindelele github-trophies](https://stats.hyochan.dev/api/github-trophies?login=kaixindelele)
