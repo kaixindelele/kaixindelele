@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 # Yongle Luo
 电子邮箱：lyl1994@mail.ustc.edu.cn  
 作品链接：[Github](https://github.com/DRLib) (10500+ stars)  
-博客链接：[知乎：强化学徒](https://www.zhihu.com/people/qiang-hua-xue-tu) (5K 关注)  
+博客链接：[知乎：强化学徒](https://www.zhihu.com/people/heda-he-28) (5K 关注)  
 
 ## 求职意向
 
@@ -34,7 +34,6 @@ RLHF，基于LLM的具身智能或者LLM+论文辅助工具
 ## 教育经历
 
 **郑州大学** | 自动化 | 本科 | 2013-2017  
-- 社团经历：担任郑州大学第二十五届马列主义研究会会长
 
 **中国科学技术大学** | 模式识别与智能系统 | 研二转博；博士四年级在读 | 2017-至今  
 
