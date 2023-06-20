@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 
 # Yongle Luo
 电子邮箱：lyl1994@mail.ustc.edu.cn  
-作品链接：[Github](https://github.com/DRLib) (12000+ stars)  
+作品链接：[Github](https://github.com/DRLib) (13000+ stars)  
 博客链接：[知乎：强化学徒](https://www.zhihu.com/people/heda-he-28) (8K 关注)  
 
 ## 求职意向
 
-RLHF，or 基于LLM的具身智能, or LLM+论文辅助工具等落地应用，or LLM+Robot
+RLHF，or 基于LLM的具身智能, or LLM+长文本总结和对话等落地应用，or LLM+Robot or Auto+
 
 ## 教育经历
 
@@ -59,8 +59,8 @@ RLHF，or 基于LLM的具身智能, or LLM+论文辅助工具等落地应用，o
 ## 证书及项目经历
 - 证书：英语四六级、心理咨询师三级
 - 项目经历：
-  - 开源ChatPaper，获得12K star，GitHub连续三天热榜第五，正在商业化。
-  - 开源ChatOpenReview项目：1. 利用langchain实现基于数据库的审稿回复辅助；2. 基于deepspeed做模型微调；3. 借助搜索引擎，实现全局文献库的审稿。
+  - 开源ChatPaper，获得12.3K star，GitHub连续三天热榜第五，正在商业化。
+  - 开源ChatOpenReview项目：1. 利用langchain实现基于数据库的审稿回复辅助；2. 基于deepspeed做模型SFT；3. 借助搜索引擎，实现全局文献库的审稿。
   - 基于Spinning UP封装的深度强化学习算法：DQN、DDPG、TD3、SAC、PPO、PER、HER等(DRLib 381 star）。
   - 基于强化学习的竞技型乒乓球机器人运动控制系统研发（横向，148w，本人负责 仿真系统搭建和强化算法）
   - LLM+Robot技能库的研发ing，已实现技能库的开发和初步验证。
