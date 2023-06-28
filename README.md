@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 # Yongle Luo
 电子邮箱：lyl1994@mail.ustc.edu.cn  
-作品链接：[Github](https://github.com/DRLib) (13000+ stars)  
-博客链接：[知乎：强化学徒](https://www.zhihu.com/people/heda-he-28) (8K 关注)  
+作品链接：[Github](https://github.com/DRLib) (13600+ stars)  
+博客链接：[知乎：强化学徒](https://www.zhihu.com/people/heda-he-28) (10K 关注)  
 
 ## 求职意向
 
