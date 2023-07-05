@@ -1,6 +1,6 @@
 ### Hi there is kaixindelele 👋
 
-寻求一份LLM相关的大厂工作，最近在更新简历
+寻求一份LLM相关的大厂工作。目前正在准备校招，暂时不考虑实习，除非高薪远程。
 
 <details><summary><code><b>简历详情</b></code></summary>
   
