@@ -3,6 +3,7 @@
 寻求一份LLM相关的大厂工作，最近在更新简历
 
 <details><summary><code><b>简历详情</b></code></summary>
+  
 <!--
 **kaixindelele/kaixindelele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
