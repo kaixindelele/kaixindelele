@@ -59,7 +59,7 @@ RLHF，or 基于LLM的具身智能, or LLM+长文本总结和对话等落地应�
 ### 自我引导持续强化学习—彻底解决深度强化学习，在稀疏奖励下复杂序列任务中效率低下的问题
 - 首次提出自我引导探索的强化学习框架。面对奖励反馈稀疏的复杂任务，该算法可以让智能体从失败中提取有效信息，积极探索，不断积累优势，最终实现高效学习。在一到三物体的各类操作任务中都取得极高探索效率，真机实验从零开始训练仅需250回合即可达100%成功率，是本人博士期间最有学术价值的工作。
 - 在此基础上的另外一个侧重于策略优化的工作正在撰写，可以使得样本效率再次提高60%以上。
-- 代码已开源：[RHER](https://github.com/RHER); 论文已在ArXiv公布：[Relay Hindsight Experience Replay](https://arxiv.org/abs/xxxx.xxxx)（一作，NeuroComputing刚拿到大修结果）
+- 代码已开源：[RHER](https://github.com/RHER); 论文已在ArXiv公布：[Relay Hindsight Experience Replay](https://arxiv.org/abs/xxxx.xxxx)（一作，NeuroComputing）
 
 ## 证书及项目经历
 - 证书：英语四六级、心理咨询师三级
