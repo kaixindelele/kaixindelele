@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 # Yongle Luo
 电子邮箱：lyl1994@mail.ustc.edu.cn  
-作品链接：[Github](https://github.com/DRLib) (14300+ stars)  
-博客链接：[知乎：强化学徒](https://www.zhihu.com/people/heda-he-28) (12K 关注)  
+作品链接：[Github](https://github.com/DRLib) (15500+ stars)  
+博客链接：[知乎：强化学徒](https://www.zhihu.com/people/heda-he-28) (14K 关注)  
 
 ## 求职意向
 
@@ -44,7 +44,7 @@ RLHF，or 基于LLM的具身智能, or LLM+长文本总结和对话等落地应�
 
 ### 深度强化学习代码库DRLib
 - 基于Spinning UP封装的深度强化学习算法：DQN、DDPG、TD3、SAC、PPO、PER、HER等。
-- 深度强化学习算法链接：[DRLib](https://github.com/DRLib) (402 stars)
+- 深度强化学习算法链接：[DRLib](https://github.com/DRLib) (412 stars)
 
 ### 稀疏奖励矫正密集奖励的强化学习
 - 论文综合稀疏奖励全局收敛但效率低下以及密集奖励收敛快但容易局部最优的特点，提出dense2sparse解决方案，兼顾二者的优势，同时提高探索效率和最终性能。
@@ -64,7 +64,7 @@ RLHF，or 基于LLM的具身智能, or LLM+长文本总结和对话等落地应�
 ## 证书及项目经历
 - 证书：英语四六级、心理咨询师三级
 - 项目经历：
-  - 开源ChatPaper，获得13.9K star，GitHub连续三天热榜第五，月活60W，注册用户5W。
+  - 开源ChatPaper，获得14.9K star，GitHub连续三天热榜第五，月活60W，注册用户5W。
   - 开源ChatOpenReview项目：1. 利用langchain实现基于数据库的审稿回复辅助；2. 基于deepspeed做模型SFT；3. 借助搜索引擎，实现全局文献库的审稿。
   - 基于Spinning UP封装的深度强化学习算法：DQN、DDPG、TD3、SAC、PPO、PER、HER等(DRLib 402 star）。
   - 基于强化学习的竞技型乒乓球机器人运动控制系统研发（横向，148w，本人负责 仿真系统搭建和强化算法）
