@@ -2,6 +2,8 @@
 
 寻求一份LLM相关的大厂工作。目前正在准备校招，暂时不考虑实习，除非 条件非常契合。
 
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=kaixindelele&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
+
 <details><summary><code><b>简历详情</b></code></summary>
   
 <!--
